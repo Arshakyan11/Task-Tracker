@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "description": "buy new groceries",
+    "status": "todo",
+    "createdAt": "2026-03-25T17:30:23.343Z",
+    "updatedAt": "2026-03-25T17:30:23.344Z"
+  },
+  {
+    "id": 2,
+    "description": "buy milk",
+    "status": "todo",
+    "createdAt": "2026-03-25T17:33:20.360Z",
+    "updatedAt": "2026-03-25T17:33:20.360Z"
+  },
+  {
+    "id": 3,
+    "description": "buy watermelloon",
+    "status": "done",
+    "createdAt": "2026-03-25T17:33:26.787Z",
+    "updatedAt": "2026-03-25T17:34:00.192Z"
+  },
+  {
+    "id": 4,
+    "description": "kola",
+    "status": "in-progress",
+    "createdAt": "2026-03-25T17:33:30.721Z",
+    "updatedAt": "2026-03-25T17:33:50.394Z"
+  },
+  {
+    "id": 5,
+    "description": "write homework",
+    "status": "todo",
+    "createdAt": "2026-03-25T17:41:47.312Z",
+    "updatedAt": "2026-03-25T17:41:47.313Z"
+  },
+  {
+    "id": 6,
+    "description": "edit the plans",
+    "status": "todo",
+    "createdAt": "2026-03-25T17:41:52.495Z",
+    "updatedAt": "2026-03-25T17:41:52.495Z"
+  },
+  {
+    "id": 7,
+    "description": "go to the unversity",
+    "status": "todo",
+    "createdAt": "2026-03-25T17:42:00.358Z",
+    "updatedAt": "2026-03-25T17:42:00.358Z"
+  }
+]
