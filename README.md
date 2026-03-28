@@ -20,13 +20,13 @@ Supports creating, updating, deleting, and tracking task status with persistent 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Arshakyan11/Task-Tracker.git
+git clone https://github.com/Arshakyan11/task-tracker.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd Task-Tracker
+cd task-tracker
 ```
 
 Install dependencies:
